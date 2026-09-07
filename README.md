@@ -12,7 +12,7 @@ Para calcular o custo estimado: custoEstimado = consumoMensal * 0.75
 
 💻 Como executar este sistema
 
-Pré-requisito É necessário ter o Python 3 instalado no computador.
+Pré-requisito É necessário ter o Python  instalado no computador.
 Abrir o projeto Abra a pasta consumo-energia no Visual Studio Code.
 Executar o programa Abra o terminal do VS Code e execute: python app.py
 Informar os seguintes dados Nome do aparelho Potência em watts (W) Tempo médio de uso diário em horas Depois, o sistema mostrará o consumo mensal estimado e o custo aproximado.
